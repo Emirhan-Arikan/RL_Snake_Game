@@ -4,7 +4,7 @@ This project implements a Reinforcement Learning agent that learns to play the c
 
 As the agent plays, a live updating matplotlib graph visualizes its learning progress (scores and moving averages).
 
-
+![Training Graph](Training_Graph.png)
 
 ## 🧠 AI Architecture
 
